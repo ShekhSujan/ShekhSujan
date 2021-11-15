@@ -3,9 +3,9 @@ Always focus on what’s important, Dedicated & Passonate About Work! ♓
 
 #### Skills: {
   Languages: ['JavaScript', 'PHP'], <br/>
-  Framework: ['Laravel'],
-  Frontend: ['VueJs'],
-  Databases: ["SQL"],
+  Framework: ['Laravel'],<br/>
+  Frontend: ['VueJs'],<br/>
+  Databases: ["SQL"],<br/>
   Tools: ['VsCode','Atom', 'Postman', 'Git', 'GitHub'],
 }
 
