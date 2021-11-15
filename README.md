@@ -2,11 +2,11 @@
 ###### Always focus on what’s important, Dedicated & Passonate About Work! ♓
 
 #### Skills: {
- ###### Languages: ['JavaScript', 'PHP'], <br/>
-######  Framework: ['Laravel'],<br/>
-  Frontend: ['VueJs'],<br/>
-  Databases: ["SQL"],<br/>
-  Tools: ['VsCode','Atom', 'Postman', 'Git', 'GitHub'],
+ ###### Languages: ['JavaScript', 'PHP'],
+######  Framework: ['Laravel'],
+ ######  Frontend: ['VueJs'],
+ ######  Databases: ["SQL"],
+ ######  Tools: ['VsCode','Atom', 'Postman', 'Git', 'GitHub'],
 }
 
 - 🔭 I’m currently working on Laravel & VueJS 
