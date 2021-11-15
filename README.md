@@ -3,10 +3,10 @@
 
 #### Skills: {
  Languages: ['JavaScript', 'PHP'],<br/>
- Framework: ['Laravel'],<br/>
-  Frontend: ['VueJs'],<br/>
-  Databases: ["SQL"],<br/>
-  Tools: ['VsCode','Atom', 'Postman', 'Git', 'GitHub'],
+ Framework: ['Laravel']<br/>
+  Frontend: ['VueJs']<br/>
+  Databases: ["SQL"]<br/>
+  Tools: ['VsCode','Atom', 'Postman', 'Git', 'GitHub']<br/>
 }
 
 - 🔭 I’m currently working on Laravel & VueJS 
