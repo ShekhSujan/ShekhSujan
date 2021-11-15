@@ -2,7 +2,7 @@
 Always focus on what’s important, Dedicated & Passonate About Work! ♓
 
 #### Skills: {
-  Languages: ['JavaScript', 'PHP'], 
+  Languages: ['JavaScript', 'PHP'], <br/>
   Framework: ['Laravel'],
   Frontend: ['VueJs'],
   Databases: ["SQL"],
