@@ -1,5 +1,5 @@
 # Sujan
-##### Always focus on what’s important, Dedicated & Passonate About Work! ♓
+### Always focus on what’s important, Dedicated & Passonate About Work! ♓
 
 #### Skills: {
  Languages: ['JavaScript', 'PHP'],<br/>
