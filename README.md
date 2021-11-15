@@ -6,7 +6,8 @@
 - 💬 Ask me about #Laravel #PHP #MySQL #VueJS 
 - ⚡ Fun fact: Movie Maniac 
 
-#### Skills: {
+# Skills 
+{
  Languages: ['JavaScript', 'PHP'],<br/>
  Framework: ['Laravel']<br/>
   Frontend: ['VueJs']<br/>
