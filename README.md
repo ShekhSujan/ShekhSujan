@@ -1,6 +1,6 @@
 # Sujan ♓
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sjn97825//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://enternals.com/)<a href="mailto:sujanmahmudovi@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='25'></a>
-### Always focus on what’s important, Dedicated & Passionate About Work! 
+### I work with devotion and enthusiasm & want to be remembered as the one who tried! 
 
 - 🔭 I’m currently working on Laravel & VueJS 
 - 🌱 I’m currently learning WebRtc 
