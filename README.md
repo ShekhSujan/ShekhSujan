@@ -22,5 +22,5 @@
  ⚙ Git
  ⚙ GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SujanMahmudOvi&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&count_private=true)  
 ![Profile views](https://gpvc.arturio.dev/sujan97825)  
