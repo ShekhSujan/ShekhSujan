@@ -24,7 +24,9 @@
  ✔ Postman
  
  # Recent Work 
- - Blog : https://weekzone.com/
+ - [Movie Review & Blog](https://weekzone.com/)
+ - [Nutrition Tips & Blog](https://nutritiontipstoday.com/)
+ - [News & Magazine](https://enews.weekzone.com/) 
 
  
 ![Profile views](https://gpvc.arturio.dev/sujan97825)  
