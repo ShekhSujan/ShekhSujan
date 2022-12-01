@@ -23,4 +23,8 @@
  ✔ Atom
  ✔ Postman
  
+ # Recent Work 
+ - Blog : https://weekzone.com/
+
+ 
 ![Profile views](https://gpvc.arturio.dev/sujan97825)  
