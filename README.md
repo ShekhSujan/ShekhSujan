@@ -1,5 +1,5 @@
 # Sujan S ♓
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&count_private=true)
+
 ### Enthusiastic Web Developer with top-notch skills & proven ability in optimizing web functionalities that improve data retrieval & workflow efficiencies.  
 
 - 🔭 I’m currently working on Laravel & VueJS 
