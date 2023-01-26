@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Laravel & VueJS 
 - 🌱 I’m currently learning Docker 
 - 💬 Ask me about #Laravel #PHP #MySQL #VueJS 
-- ⚡ Fun fact: Movie Maniac 
+
 
 # Skills 
  ✔ PHP
