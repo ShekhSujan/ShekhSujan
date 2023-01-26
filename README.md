@@ -12,6 +12,7 @@
  ✔ Laravel
  ✔ JavaScript
  ✔ VueJS
+ ✔ NuxtJS
  ✔ jQuery
  ✔ MySQL
  
