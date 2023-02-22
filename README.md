@@ -28,6 +28,7 @@
  - [Movie Review & Blog](https://weekzone.com/)
  - [Nutrition Tips & Blog](https://nutritiontipstoday.com/)
  - [News & Magazine](https://enews.weekzone.com/) 
-
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&locale=en&theme=radical" alt="sujan97825" /></p>
  
 ![Profile views](https://gpvc.arturio.dev/sujan97825)  
