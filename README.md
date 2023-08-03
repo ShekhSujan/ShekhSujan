@@ -26,4 +26,3 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&locale=en&theme=radical" alt="sujan97825" /></p> -->
  
-![Profile views](https://gpvc.arturio.dev/sujan97825)  
