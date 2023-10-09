@@ -24,5 +24,7 @@
  ✔ Atom
  ✔ Postman
 
+# RecentWork 
+ ✔ <a href="https://weekzone.com/" target=''_blank'>Weekzone</a>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&locale=en&theme=radical" alt="sujan97825" /></p> -->
  
