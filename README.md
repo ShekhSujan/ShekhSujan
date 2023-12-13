@@ -1,4 +1,4 @@
-# Sujan S ♓
+# Shekh Sujan ♓
 
 ### Enthusiastic Web Developer with top-notch skills & proven ability in optimizing web functionalities that improve data retrieval & workflow efficiencies.  
 
