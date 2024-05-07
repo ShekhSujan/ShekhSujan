@@ -25,5 +25,5 @@
  ✔ Postman
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShekhSujan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&locale=en&theme=radical" alt="sujan97825" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan97825&show_icons=true&locale=en&theme=radical" alt="sujan97825" /></p>
  
