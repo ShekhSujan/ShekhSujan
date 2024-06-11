@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Laravel & VueJS 
 - 🌱 I’m currently learning Docker 
-- 💬 Ask me about #Laravel #PHP #MySQL #VueJS 
+- 💬 Ask me about #Laravel #PHP #MySQL #VueJS #Docker
 
 
 # Skills 
@@ -12,7 +12,6 @@
  ✔ Laravel
  ✔ JavaScript
  ✔ VueJS
- ✔ NuxtJS
  ✔ jQuery
  ✔ MySQL
  
@@ -21,7 +20,6 @@
  ✔ Git
  ✔ GitHub
  ✔ VsCode
- ✔ Atom
  ✔ Postman
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShekhSujan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
